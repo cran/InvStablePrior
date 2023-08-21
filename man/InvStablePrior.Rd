@@ -3,6 +3,7 @@
 \docType{package}
 \name{InvStablePrior}
 \alias{InvStablePrior}
+\alias{InvStablePrior-package}
 \title{InvStablePrior Package}
 \description{
 Contains random number generation, plotting, and estimation algorithms for performing Bayesian inference on a parameter of some widely-used exponential data models.

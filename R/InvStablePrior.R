@@ -20,4 +20,6 @@
 #' @author Dexter Cahoy \email{cahoyd@uhd.edu}
 #'
 #' @name InvStablePrior
+#'
+#' @aliases InvStablePrior-package
 NULL

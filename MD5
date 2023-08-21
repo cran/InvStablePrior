@@ -1,12 +1,13 @@
-0df8df063a1a8d4719ca7129836b61ee *DESCRIPTION
+ce9e006eb8975eda8c457f2bfbafcfd8 *DESCRIPTION
 be748ad5e2fa4a4154fb704f32f35388 *NAMESPACE
-0a32951f4a481e5c8d2a0590d6ce82fa *R/InvStablePrior.R
+5a98270e2e0d2c3cba8e0e07371aeb92 *R/InvStablePrior.R
 06cbcc2dc28ce32a2c11f1b6bbd45dcf *R/isDexp.R
 d3351f118cecadb846a7435d3b7d2272 *R/isExp.R
 b9f9944a1189081828025bdcc0eae36e *R/isHalfN.R
 db1270cd4c3ad795c6c4b8352c621b46 *R/isInvGam.R
 a26f80feb1c52dcd8d353e11dda708b2 *R/isPoi.R
-2fafe17be0fc2a6a6bf228f73a375740 *man/InvStablePrior.Rd
+0092b3d20ee6852a2946fce3d313c4f8 *README.md
+9714ca6970e17807d649a26a2f290ead *man/InvStablePrior.Rd
 53e5e0b3a97feefa7aeb99952c96be83 *man/isdexp.Rd
 8d064bf207a51154cde11574b2043cd9 *man/isexp.Rd
 a182b83b3d42da3393748cbfdbe6e24a *man/ishalfn.Rd
